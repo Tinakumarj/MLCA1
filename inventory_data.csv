@@ -1,0 +1,151 @@
+Item_ID,Item_Name,Category,Stock_quantity,Price,Restock_Recommendation
+Item_1,Item_1,Furniture,88,265.7,Sufficient Stock
+Item_2,Item_2,Groceries,64,116.09,Sufficient Stock
+Item_3,Item_3,Clothing,70,458.0,Sufficient Stock
+Item_4,Item_4,Electronics,24,479.08,Sufficient Stock
+Item_5,Item_5,Groceries,49,134.71,Sufficient Stock
+Item_6,Item_6,Clothing,26,38.2,Sufficient Stock
+Item_7,Item_7,Electronics,81,341.66,Sufficient Stock
+Item_8,Item_8,Groceries,44,465.91,Sufficient Stock
+Item_9,Item_9,Clothing,72,430.71,Sufficient Stock
+Item_10,Item_10,Clothing,100,201.41,Sufficient Stock
+Item_11,Item_11,Groceries,88,129.9,Sufficient Stock
+Item_12,Item_12,Electronics,23,64.99,Sufficient Stock
+Item_13,Item_13,Furniture,31,295.18,Sufficient Stock
+Item_14,Item_14,Groceries,83,204.31,Sufficient Stock
+Item_15,Item_15,Toys,18,269.88,Restock
+Item_16,Item_16,Groceries,100,440.98,Sufficient Stock
+Item_17,Item_17,Toys,2,299.2,Restock
+Item_18,Item_18,Toys,12,272.02,Restock
+Item_19,Item_19,Electronics,39,465.05,Sufficient Stock
+Item_20,Item_20,Furniture,66,176.53,Sufficient Stock
+Item_21,Item_21,Clothing,56,314.77,Sufficient Stock
+Item_22,Item_22,Clothing,31,269.68,Sufficient Stock
+Item_23,Item_23,Groceries,7,240.42,Restock
+Item_24,Item_24,Groceries,84,316.41,Sufficient Stock
+Item_25,Item_25,Electronics,7,392.7,Restock
+Item_26,Item_26,Furniture,62,373.83,Sufficient Stock
+Item_27,Item_27,Furniture,69,423.46,Sufficient Stock
+Item_28,Item_28,Toys,86,170.39,Sufficient Stock
+Item_29,Item_29,Electronics,31,261.02,Sufficient Stock
+Item_30,Item_30,Electronics,46,311.43,Sufficient Stock
+Item_31,Item_31,Furniture,96,196.15,Sufficient Stock
+Item_32,Item_32,Toys,28,29.69,Sufficient Stock
+Item_33,Item_33,Clothing,30,391.75,Sufficient Stock
+Item_34,Item_34,Electronics,33,470.57,Sufficient Stock
+Item_35,Item_35,Furniture,14,245.74,Restock
+Item_36,Item_36,Toys,47,36.12,Sufficient Stock
+Item_37,Item_37,Electronics,19,490.43,Restock
+Item_38,Item_38,Electronics,85,242.97,Sufficient Stock
+Item_39,Item_39,Groceries,34,96.2,Sufficient Stock
+Item_40,Item_40,Toys,23,49.26,Sufficient Stock
+Item_41,Item_41,Groceries,45,407.47,Sufficient Stock
+Item_42,Item_42,Toys,50,261.69,Sufficient Stock
+Item_43,Item_43,Toys,21,256.25,Sufficient Stock
+Item_44,Item_44,Electronics,58,463.19,Sufficient Stock
+Item_45,Item_45,Clothing,87,363.54,Sufficient Stock
+Item_46,Item_46,Furniture,20,256.21,Sufficient Stock
+Item_47,Item_47,Groceries,13,482.43,Restock
+Item_48,Item_48,Groceries,61,340.77,Sufficient Stock
+Item_49,Item_49,Groceries,67,193.5,Sufficient Stock
+Item_50,Item_50,Electronics,63,98.91,Sufficient Stock
+Item_51,Item_51,Furniture,50,281.46,Sufficient Stock
+Item_52,Item_52,Toys,39,269.45,Sufficient Stock
+Item_53,Item_53,Groceries,68,277.23,Sufficient Stock
+Item_54,Item_54,Electronics,99,269.18,Sufficient Stock
+Item_55,Item_55,Groceries,31,62.87,Sufficient Stock
+Item_56,Item_56,Electronics,56,130.53,Sufficient Stock
+Item_57,Item_57,Toys,28,177.83,Sufficient Stock
+Item_58,Item_58,Electronics,65,58.52,Sufficient Stock
+Item_59,Item_59,Toys,62,18.74,Sufficient Stock
+Item_60,Item_60,Clothing,87,290.36,Sufficient Stock
+Item_61,Item_61,Groceries,44,402.52,Sufficient Stock
+Item_62,Item_62,Electronics,9,421.84,Restock
+Item_63,Item_63,Clothing,46,365.64,Sufficient Stock
+Item_64,Item_64,Clothing,65,230.78,Sufficient Stock
+Item_65,Item_65,Furniture,42,354.93,Sufficient Stock
+Item_66,Item_66,Toys,64,64.1,Sufficient Stock
+Item_67,Item_67,Clothing,16,382.97,Restock
+Item_68,Item_68,Electronics,54,328.24,Sufficient Stock
+Item_69,Item_69,Clothing,72,334.88,Sufficient Stock
+Item_70,Item_70,Clothing,45,288.27,Sufficient Stock
+Item_71,Item_71,Clothing,11,432.58,Restock
+Item_72,Item_72,Toys,71,273.21,Sufficient Stock
+Item_73,Item_73,Toys,30,429.15,Sufficient Stock
+Item_74,Item_74,Electronics,11,436.61,Restock
+Item_75,Item_75,Furniture,87,346.07,Sufficient Stock
+Item_76,Item_76,Clothing,74,355.74,Sufficient Stock
+Item_77,Item_77,Furniture,12,40.14,Restock
+Item_78,Item_78,Electronics,7,300.53,Restock
+Item_79,Item_79,Toys,66,73.89,Sufficient Stock
+Item_80,Item_80,Furniture,21,5.46,Sufficient Stock
+Item_81,Item_81,Toys,93,9.37,Sufficient Stock
+Item_82,Item_82,Clothing,44,235.49,Sufficient Stock
+Item_83,Item_83,Toys,56,112.11,Sufficient Stock
+Item_84,Item_84,Toys,54,194.22,Sufficient Stock
+Item_85,Item_85,Groceries,85,237.34,Sufficient Stock
+Item_86,Item_86,Clothing,82,390.27,Sufficient Stock
+Item_87,Item_87,Clothing,21,253.34,Sufficient Stock
+Item_88,Item_88,Clothing,5,141.27,Restock
+Item_89,Item_89,Electronics,42,110.46,Sufficient Stock
+Item_90,Item_90,Furniture,90,469.7,Sufficient Stock
+Item_91,Item_91,Furniture,4,242.69,Restock
+Item_92,Item_92,Clothing,30,52.5,Sufficient Stock
+Item_93,Item_93,Groceries,66,163.21,Sufficient Stock
+Item_94,Item_94,Clothing,61,48.21,Sufficient Stock
+Item_95,Item_95,Toys,93,411.97,Sufficient Stock
+Item_96,Item_96,Toys,35,112.57,Sufficient Stock
+Item_97,Item_97,Furniture,62,121.89,Sufficient Stock
+Item_98,Item_98,Electronics,41,70.28,Sufficient Stock
+Item_99,Item_99,Clothing,29,396.97,Sufficient Stock
+Item_100,Item_100,Groceries,86,476.93,Sufficient Stock
+Item_101,Item_101,Toys,73,227.95,Sufficient Stock
+Item_102,Item_102,Electronics,19,40.28,Restock
+Item_103,Item_103,Electronics,94,241.16,Sufficient Stock
+Item_104,Item_104,Groceries,21,362.25,Sufficient Stock
+Item_105,Item_105,Furniture,66,93.11,Sufficient Stock
+Item_106,Item_106,Electronics,42,205.17,Sufficient Stock
+Item_107,Item_107,Furniture,26,210.38,Sufficient Stock
+Item_108,Item_108,Electronics,96,396.64,Sufficient Stock
+Item_109,Item_109,Toys,19,456.15,Restock
+Item_110,Item_110,Electronics,38,73.09,Sufficient Stock
+Item_111,Item_111,Toys,56,47.47,Sufficient Stock
+Item_112,Item_112,Toys,54,79.87,Sufficient Stock
+Item_113,Item_113,Groceries,88,69.89,Sufficient Stock
+Item_114,Item_114,Clothing,13,28.41,Restock
+Item_115,Item_115,Groceries,59,348.89,Sufficient Stock
+Item_116,Item_116,Electronics,19,152.88,Restock
+Item_117,Item_117,Clothing,82,12.41,Sufficient Stock
+Item_118,Item_118,Electronics,10,253.25,Restock
+Item_119,Item_119,Toys,61,210.87,Sufficient Stock
+Item_120,Item_120,Clothing,85,251.63,Sufficient Stock
+Item_121,Item_121,Groceries,22,190.37,Sufficient Stock
+Item_122,Item_122,Clothing,23,409.78,Sufficient Stock
+Item_123,Item_123,Clothing,19,446.57,Restock
+Item_124,Item_124,Furniture,32,182.28,Sufficient Stock
+Item_125,Item_125,Furniture,94,119.9,Sufficient Stock
+Item_126,Item_126,Groceries,100,442.21,Sufficient Stock
+Item_127,Item_127,Groceries,13,398.42,Restock
+Item_128,Item_128,Toys,70,144.64,Sufficient Stock
+Item_129,Item_129,Toys,82,127.12,Sufficient Stock
+Item_130,Item_130,Electronics,54,72.34,Sufficient Stock
+Item_131,Item_131,Toys,25,226.78,Sufficient Stock
+Item_132,Item_132,Clothing,13,80.73,Restock
+Item_133,Item_133,Clothing,58,173.55,Sufficient Stock
+Item_134,Item_134,Clothing,92,424.98,Sufficient Stock
+Item_135,Item_135,Groceries,38,341.79,Sufficient Stock
+Item_136,Item_136,Clothing,85,328.99,Sufficient Stock
+Item_137,Item_137,Clothing,35,443.07,Sufficient Stock
+Item_138,Item_138,Electronics,18,353.1,Restock
+Item_139,Item_139,Electronics,5,246.89,Restock
+Item_140,Item_140,Furniture,64,128.54,Sufficient Stock
+Item_141,Item_141,Electronics,45,359.49,Sufficient Stock
+Item_142,Item_142,Electronics,100,143.02,Sufficient Stock
+Item_143,Item_143,Electronics,44,5.98,Sufficient Stock
+Item_144,Item_144,Toys,14,360.76,Restock
+Item_145,Item_145,Groceries,58,437.13,Sufficient Stock
+Item_146,Item_146,Clothing,17,312.78,Restock
+Item_147,Item_147,Electronics,58,182.35,Sufficient Stock
+Item_148,Item_148,Clothing,59,186.94,Sufficient Stock
+Item_149,Item_149,Furniture,46,153.17,Sufficient Stock
+Item_150,Item_150,Furniture,76,50.53,Sufficient Stock
